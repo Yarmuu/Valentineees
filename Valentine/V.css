@@ -1,0 +1,71 @@
+@import url("https://fonts.google.com/share?selection.family=Oooh+Baby");
+body {
+    background-image: url(../Valentine/8278309.gif);
+            background-size: cover; 
+            background-position: center; 
+            background-repeat: no-repeat; 
+            height: 100vh; 
+            margin: 0;
+}
+.gif-container {
+    text-align: center;
+
+}
+.gif-container img {
+    width: 300px; 
+    height: auto; 
+}
+
+.boton {
+    background-color: #d83076;
+    color: rgb(248, 148, 198);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 28px;
+    font-family: "Oooh Baby", serif;
+    width: 300px;
+    height: 50px;
+    display: flex;
+    margin-left: 550px;
+    margin-top: 30px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.boton2 {
+    background-color: #d83076;
+    color: rgb(248, 148, 198);
+    padding: 10px 10px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 28px;
+    font-family: "Oooh Baby", serif;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    margin-left: 700px;
+    margin-top: 30px;
+    text-decoration: none;
+    text-align: center;
+}
+.boton:hover {
+    color: #c946a1;
+    background: #d83076;
+
+}
+link a{
+    text-align: center;
+
+}
+h1{
+    text-align: center;
+    color: #ca3e3e;
+    font-family: "Oooh Baby", serif;
+
+}
+
+
+  

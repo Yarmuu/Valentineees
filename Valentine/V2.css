@@ -1,0 +1,53 @@
+
+body {
+    background-image: url(../Valentine/8278309.gif);
+            background-size: cover; 
+            background-position: center; 
+            background-repeat: no-repeat; 
+            height: 100vh; 
+            margin: 0;
+            background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    color: #ca3e3e;
+    font-family: cursive;
+    margin: 10px;
+}
+h2 {
+    text-align: center;
+    color: #e0518c;
+    font-family: cursive;
+    margin: 10px;
+}
+.gif-container {
+    text-align: center;
+
+}
+.gif-container img {
+    width: 400px; 
+    height: auto; }
+.boton {  
+    background-color: #e94496;
+    color: rgb(247, 131, 166);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: cursive;
+    width: 300px; 
+      height: 100px; 
+      font-size: 28px;
+      border: none;
+      border-radius: 15px;
+      cursor: pointer;
+      margin: 500px;
+      text-decoration: none;
+
+    }
+
+a:hover {
+    color: rgb(247, 155, 170);
+    background: #ca3e3e;
+}
